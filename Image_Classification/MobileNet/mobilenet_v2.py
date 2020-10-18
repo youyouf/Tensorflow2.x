@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+# @File : mobilenet_v2.py
+# @Author: riky
+# @Time : 2020/10/18
+# @Software: PyCharm
+# @Brief: mobilenet v2网络构建
+
 import tensorflow as tf
 from tensorflow.keras import layers
 
