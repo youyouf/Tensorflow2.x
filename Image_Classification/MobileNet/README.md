@@ -1,9 +1,9 @@
-# 使用MobileNet实现分类任务
+# 使用MobileNet-V2实现分类任务
 
 ### 进度
 
 - [x] 使用tf.data读取数据
-- [x] 模型搭建（MobileNet）
+- [x] 模型搭建（MobileNet-V2）
 - [x] 使用model.fit方式训练
 - [x] 迁移学习
 - [x] 数据增强
