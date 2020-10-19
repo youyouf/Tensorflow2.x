@@ -27,4 +27,5 @@
 - https://blog.csdn.net/weixin_44791964/article/details/102779878
 	- 模型大体结构的构建
 	- 数据加载
-	
+- https://github.com/fchollet/deep-learning-models/releases
+	- VGG16权重模型下载（https://github.com/fchollet/deep-learning-models/releases）
