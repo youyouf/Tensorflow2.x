@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+# @File : VGG16(1).py
+# @Author: riky
+# @Time : 2020/10/20
+# @Software: PyCharm
+# @Brief: 网络构建
 
 '''VGG16 model for tensorflow.
 
