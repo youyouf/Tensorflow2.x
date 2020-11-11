@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 # @File : get_image.py
-# @Author: Runist
-# @Time : 2020/5/9 13:16
 # @Software: PyCharm
 # @Brief: 复制图片到images-optional文件下，实现mAP计算过程可视化
 
