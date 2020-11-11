@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 # @File : get_dr_txt.py
-# @Author: Runist
-# @Time : 2020/5/8 14:27
 # @Software: PyCharm
 # @Brief: 获取预测框的数据，并转mAP的txt检测格式
 from predict.predict import Yolov3Predict
