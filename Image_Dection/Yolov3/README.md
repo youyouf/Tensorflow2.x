@@ -1,18 +1,22 @@
-# 使用Tensorflow2.0实现CenterNet
+# 使用Tensorflow2.0实现Yolov2
 
 ### 进度
 
+- [x] 使用tf.data读取数据
 - [x] 模型搭建
 - [x] 损失函数
 - [x] 使用tf.GradientTape训练
+- [x] 使用model.fit方式训练
 - [x] Learning rate decay
+- [x] tf.GradientTape下的callbacks
+- [x] 数据增强
+- [x] kmeans提取先验框
 - [x] Tensorboard
-- [] 数据增强
-- [] model.fit训练方式
-- [] 数据GPU加速读取
-
+- [x] GPU加速
+- [x] GPU分布式训练
+- [x] mAP的计算(尚未完成)
 
 ### Reference
 
--  主要采用了calmisential CenterNet_TensorFlow2的代码(大佬的GitHub链接：https://github.com/calmisential/CenterNet_TensorFlow2)
--  数据集采用VOC数据集
+-  Copy了Runist Yolov3的代码(忘记了该大佬的GitHub链接了，非常抱歉)
+-  https://aistudio.baidu.com/aistudio/datasetdetail/19638（数据集链接，不过效果并不好）
