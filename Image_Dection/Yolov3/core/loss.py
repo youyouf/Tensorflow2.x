@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 # @File : loss.py
-# @Author: Runist
-# @Time : 2020/4/3 13:36
 # @Software: PyCharm
 # @Brief: Yolov3中计算loss
 
