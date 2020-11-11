@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 # @File : transform.py
-# @Author: Runist
-# @Time : 2020/4/16 15:59
 # @Software: PyCharm
 # @Brief: 模型预测中，需要将y_pred的特征提取，并变成原有图片的尺度
 
