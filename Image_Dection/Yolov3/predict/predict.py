@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 # @File : predict.py
+# @Author: Runist
 # @Software: PyCharm
 # @Brief: 模型预测
 import config.config as cfg
