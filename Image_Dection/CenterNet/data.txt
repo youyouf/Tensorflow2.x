@@ -1,0 +1,27 @@
+./data/datasets/VOCdevkit/VOC2012/JPEGImages/2012_004283.jpg 375.0 500.0 203.0 31.0 327.0 364.0 0
+./data/datasets/VOCdevkit/VOC2012/JPEGImages/2012_004284.jpg 500.0 447.0 184.0 26.0 334.0 246.0 0
+./data/datasets/VOCdevkit/VOC2012/JPEGImages/2012_004285.jpg 319.0 500.0 267.0 86.0 358.0 255.0 0
+./data/datasets/VOCdevkit/VOC2012/JPEGImages/2012_004289.jpg 375.0 500.0 94.0 109.0 162.0 330.0 0
+./data/datasets/VOCdevkit/VOC2012/JPEGImages/2012_004290.jpg 360.0 480.0 59.0 39.0 432.0 360.0 0
+./data/datasets/VOCdevkit/VOC2012/JPEGImages/2012_004291.jpg 500.0 333.0 1.0 1.0 294.0 500.0 0
+./data/datasets/VOCdevkit/VOC2012/JPEGImages/2012_004292.jpg 335.0 500.0 298.0 134.0 335.0 249.0 0 213.0 144.0 235.0 199.0 0
+./data/datasets/VOCdevkit/VOC2012/JPEGImages/2012_004293.jpg 500.0 375.0 150.0 78.0 317.0 500.0 0 1.0 126.0 336.0 500.0 0
+./data/datasets/VOCdevkit/VOC2012/JPEGImages/2012_004295.jpg 374.0 500.0 89.0 165.0 236.0 282.0 0
+./data/datasets/VOCdevkit/VOC2012/JPEGImages/2012_004298.jpg 345.0 500.0 86.0 112.0 201.0 207.0 0
+./data/datasets/VOCdevkit/VOC2012/JPEGImages/2012_004299.jpg 500.0 319.0 36.0 72.0 227.0 322.0 0
+./data/datasets/VOCdevkit/VOC2012/JPEGImages/2012_004300.jpg 375.0 500.0 243.0 100.0 277.0 131.0 0
+./data/datasets/VOCdevkit/VOC2012/JPEGImages/2012_004302.jpg 500.0 395.0 15.0 81.0 366.0 500.0 0
+./data/datasets/VOCdevkit/VOC2012/JPEGImages/2012_004303.jpg 500.0 333.0 90.0 75.0 225.0 317.0 0
+./data/datasets/VOCdevkit/VOC2012/JPEGImages/2012_004306.jpg 375.0 500.0 26.0 105.0 142.0 375.0 0
+./data/datasets/VOCdevkit/VOC2012/JPEGImages/2012_004308.jpg 333.0 500.0 141.0 33.0 303.0 239.0 0
+./data/datasets/VOCdevkit/VOC2012/JPEGImages/2012_004309.jpg 375.0 500.0 110.0 212.0 298.0 375.0 0
+./data/datasets/VOCdevkit/VOC2012/JPEGImages/2012_004310.jpg 500.0 345.0 71.0 7.0 345.0 500.0 0
+./data/datasets/VOCdevkit/VOC2012/JPEGImages/2012_004312.jpg 329.0 500.0 152.0 22.0 340.0 280.0 0
+./data/datasets/VOCdevkit/VOC2012/JPEGImages/2012_004315.jpg 375.0 500.0 392.0 239.0 473.0 375.0 0
+./data/datasets/VOCdevkit/VOC2012/JPEGImages/2012_004317.jpg 500.0 375.0 64.0 131.0 170.0 310.0 0
+./data/datasets/VOCdevkit/VOC2012/JPEGImages/2012_004319.jpg 312.0 500.0 274.0 82.0 301.0 137.0 0
+./data/datasets/VOCdevkit/VOC2012/JPEGImages/2012_004326.jpg 375.0 500.0 245.0 31.0 495.0 375.0 0
+./data/datasets/VOCdevkit/VOC2012/JPEGImages/2012_004328.jpg 500.0 328.0 59.0 220.0 166.0 415.0 0 219.0 226.0 268.0 332.0 0
+./data/datasets/VOCdevkit/VOC2012/JPEGImages/2012_004329.jpg 500.0 333.0 57.0 88.0 284.0 397.0 0
+./data/datasets/VOCdevkit/VOC2012/JPEGImages/2012_004330.jpg 500.0 375.0 230.0 133.0 370.0 441.0 0
+./data/datasets/VOCdevkit/VOC2012/JPEGImages/2012_004331.jpg 375.0 500.0 102.0 25.0 208.0 230.0 0
