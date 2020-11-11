@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 # @File : boxExtract.py
-# @Author: Runist
-# @Time : 2020/4/22 15:42
 # @Software: PyCharm
 # @Brief: 提取xml中的box信息
 
