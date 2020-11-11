@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 # @File : get_mAP.py
-# @Author: Runist
-# @Time : 2020/5/9 9:20
 # @Software: PyCharm
 # @Brief: 计算模型mAP指标
 
