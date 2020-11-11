@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 # @File : model.py
-# @Author: Runist
-# @Time : 2020/3/30 13:44
 # @Software: PyCharm
 # @Brief: YOLO3模型实现
 
