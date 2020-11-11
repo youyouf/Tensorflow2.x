@@ -1,6 +1,4 @@
 # -*- coding: utf-8 -*-
-# @File : config.py
-# @Author: Runist
 # @Time : 2020/4/3 10:59
 # @Software: PyCharm
 # @Brief: 配置文件
