@@ -3,6 +3,7 @@
 ### 进度
 
 - [x] Yolo-v2
+- [x] Yolo-v3
 - [x] CenterNet
 - [ ] SSD
 - [ ] Faster RCNN
