@@ -2,7 +2,8 @@
 
 ### 进度
 
-- [x] Yolo
+- [x] Yolo-v2
+- [x] CenterNet
 - [ ] SSD
 - [ ] Faster RCNN
 - [ ] Transformer
