@@ -7,9 +7,9 @@
 - [x] 使用tf.GradientTape训练
 - [x] Learning rate decay
 - [x] Tensorboard
-- [] 数据增强
-- [] model.fit训练方式
-- [] 数据GPU加速读取
+- [ ] 数据增强
+- [ ] model.fit训练方式
+- [ ] 数据GPU加速读取
 
 
 ### Reference
