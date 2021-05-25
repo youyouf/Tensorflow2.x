@@ -6,6 +6,7 @@
 	- MobileNet(+ Grad_CAM热力图)
 	- ResNet50
 	- Xception
+	- InceptionV3
 	- ShuffleNet
 - [x] 目标检测
 	- CenterNet
