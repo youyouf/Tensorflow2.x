@@ -119,7 +119,7 @@ if __name__ == '__main__':
     grad_cam = MyGrad_CAM()
     grad_cam.grad_cam(model=model,
                       layer_name="Conv_1",
-                      img_dir=r"C:\Users\riky\Desktop\competitionTrain\image\neg\neg_19.png",
+                      img_dir=r"neg_19.png",
                       img_preprocess_input=img_preprocess_input
                       )
 
